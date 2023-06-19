@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="40" width="240" viewBox="0 0 240 40">
+  <style>
+    * {
+    font-family: Fira Code;
+    font-size: 30px;
+    }
+  </style>
+  <text x="0" y="39" fill="#66023C">Kira Sokolova</text>
+</svg>
