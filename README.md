@@ -27,8 +27,12 @@
     <a href="https://github.com/search?q=user%3Akirasok+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Akirasok+language%3Anix"><img alt="Nix" src="https://custom-icon-badges.demolab.com/badge/Nix-7EB7E2.svg?logo=nixos&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Akirasok+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Akirasok+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Regex-555555.svg"></a>
+    <a href="https://github.com/search?q=user%3Akirasok+language%3Aregex"><img alt="Regex" src="https://img.shields.io/badge/Regex-555555.svg"></a>
     <a href="https://github.com/search?q=user%3Akirasok+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Akirasok+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-214CE5.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Akirasok+language%3Axml"><img alt="XML" src="https://img.shields.io/badge/XML-005FAF.svg?logo=xml&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Akirasok+language%3Atoml"><img alt="TOML" src="https://img.shields.io/badge/TOML-000000.svg?logo=toml&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Akirasok+language%3Ayaml"><img alt="YAML" src="https://img.shields.io/badge/YAML-cc1018.svg?logo=yaml&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Akirasok+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Akirasok+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 </p>
