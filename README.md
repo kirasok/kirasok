@@ -10,7 +10,7 @@
     <a style="margin: 1.5em" href="mailto:Kyra256@proton.me"><img src="proton.svg"/></a>
     <a style="margin: 1.5em" href="https://matrix.to/#/@kirasok:matrix.org"> <img src="matrix.svg"/> </a>
     <a style="margin: 1.5em" rel="me" href="https://mastodon.social/@kirasok"> <img src="mastodon.svg"/></a>
-    <a style="margin: 1.5em" href="https://t.me/kira_531"> <img src="telegram.svg"/> </a>
+    <a style="margin: 1.5em" href="https://t.me/kira_377"> <img src="telegram.svg"/> </a>
 </p>
 
 <p align="center">
